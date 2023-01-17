@@ -2,4 +2,4 @@
 !.gitignore
 !.project
 /tests
-temp.txt
+/temp.txt
